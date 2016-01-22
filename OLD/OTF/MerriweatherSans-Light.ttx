@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont sfntVersion="OTTO" ttLibVersion="3.0">
+  <GlyphOrder src="MerriweatherSans-Light.GlyphOrder.ttx"/>
+  <head src="MerriweatherSans-Light._h_e_a_d.ttx"/>
+  <hhea src="MerriweatherSans-Light._h_h_e_a.ttx"/>
+  <maxp src="MerriweatherSans-Light._m_a_x_p.ttx"/>
+  <OS_2 src="MerriweatherSans-Light.O_S_2f_2.ttx"/>
+  <name src="MerriweatherSans-Light._n_a_m_e.ttx"/>
+  <cmap src="MerriweatherSans-Light._c_m_a_p.ttx"/>
+  <post src="MerriweatherSans-Light._p_o_s_t.ttx"/>
+  <CFF src="MerriweatherSans-Light.C_F_F_.ttx"/>
+  <GSUB src="MerriweatherSans-Light.G_S_U_B_.ttx"/>
+  <hmtx src="MerriweatherSans-Light._h_m_t_x.ttx"/>
+</ttFont>

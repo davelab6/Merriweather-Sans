@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont sfntVersion="OTTO" ttLibVersion="3.0">
+  <GlyphOrder src="MerriweatherSans-ExtraBoldItalic.GlyphOrder.ttx"/>
+  <head src="MerriweatherSans-ExtraBoldItalic._h_e_a_d.ttx"/>
+  <hhea src="MerriweatherSans-ExtraBoldItalic._h_h_e_a.ttx"/>
+  <maxp src="MerriweatherSans-ExtraBoldItalic._m_a_x_p.ttx"/>
+  <OS_2 src="MerriweatherSans-ExtraBoldItalic.O_S_2f_2.ttx"/>
+  <name src="MerriweatherSans-ExtraBoldItalic._n_a_m_e.ttx"/>
+  <cmap src="MerriweatherSans-ExtraBoldItalic._c_m_a_p.ttx"/>
+  <post src="MerriweatherSans-ExtraBoldItalic._p_o_s_t.ttx"/>
+  <CFF src="MerriweatherSans-ExtraBoldItalic.C_F_F_.ttx"/>
+  <GDEF src="MerriweatherSans-ExtraBoldItalic.G_D_E_F_.ttx"/>
+  <GPOS src="MerriweatherSans-ExtraBoldItalic.G_P_O_S_.ttx"/>
+  <GSUB src="MerriweatherSans-ExtraBoldItalic.G_S_U_B_.ttx"/>
+  <hmtx src="MerriweatherSans-ExtraBoldItalic._h_m_t_x.ttx"/>
+</ttFont>

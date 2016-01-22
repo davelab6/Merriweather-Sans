@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont ttLibVersion="3.0">
+
+  <prep>
+    <assembly>
+      PUSH[ ]	/* 2 values pushed */
+      2048 2048
+      MUL[ ]	/* Multiply */
+      DUP[ ]	/* DuplicateTopStack */
+      PUSH[ ]	/* 1 value pushed */
+      1
+      SWAP[ ]	/* SwapTopStack */
+      WCVTP[ ]	/* WriteCVTInPixels */
+      DUP[ ]	/* DuplicateTopStack */
+      PUSH[ ]	/* 1 value pushed */
+      3
+      SWAP[ ]	/* SwapTopStack */
+      WCVTF[ ]	/* WriteCVTInFUnits */
+      PUSH[ ]	/* 1 value pushed */
+      23
+      RCVT[ ]	/* ReadCVT */
+      DUP[ ]	/* DuplicateTopStack */
+      DUP[ ]	/* DuplicateTopStack */
+      MPPEM[ ]	/* MeasurePixelPerEm */
+      PUSH[ ]	/* 1 value pushed */
+      8
+      LTEQ[ ]	/* LessThenOrEqual */
+      MPPEM[ ]	/* MeasurePixelPerEm */
+      PUSH[ ]	/* 1 value pushed */
+      6
+      GTEQ[ ]	/* GreaterThanOrEqual */
+      AND[ ]	/* LogicalAnd */
+      IF[ ]	/* If */
+      PUSH[ ]	/* 1 value pushed */
+      52
+      ELSE[ ]	/* Else */
+      PUSH[ ]	/* 1 value pushed */
+      40
+      EIF[ ]	/* EndIf */
+      ADD[ ]	/* Add */
+      FLOOR[ ]	/* Floor */
+      DUP[ ]	/* DuplicateTopStack */
+      ROLL[ ]	/* RollTopThreeStack */
+      NEQ[ ]	/* NotEqual */
+      IF[ ]	/* If */
+      PUSH[ ]	/* 1 value pushed */
+      2
+      CINDEX[ ]	/* CopyXToTopStack */
+      SUB[ ]	/* Subtract */
+      PUSH[ ]	/* 1 value pushed */
+      1
+      RCVT[ ]	/* ReadCVT */
+      MUL[ ]	/* Multiply */
+      SWAP[ ]	/* SwapTopStack */
+      DIV[ ]	/* Divide */
+      PUSH[ ]	/* 1 value pushed */
+      2
+      SWAP[ ]	/* SwapTopStack */
+      WCVTP[ ]	/* WriteCVTInPixels */
+      PUSH[ ]	/* 4 values pushed */
+      11 11 5 4
+      CALL[ ]	/* CallFunction */
+      PUSH[ ]	/* 4 values pushed */
+      12 17 5 4
+      CALL[ ]	/* CallFunction */
+      PUSH[ ]	/* 4 values pushed */
+      20 25 5 4
+      CALL[ ]	/* CallFunction */
+      EIF[ ]	/* EndIf */
+      PUSH[ ]	/* 3 values pushed */
+      4 40 9
+      RCVT[ ]	/* ReadCVT */
+      GT[ ]	/* GreaterThan */
+      WCVTP[ ]	/* WriteCVTInPixels */
+      PUSH[ ]	/* 4 values pushed */
+      12 19 6 4
+      CALL[ ]	/* CallFunction */
+      PUSH[ ]	/* 2 values pushed */
+      6 3
+      WCVTP[ ]	/* WriteCVTInPixels */
+      PUSH[ ]	/* 2 values pushed */
+      36 1
+      GETINFO[ ]	/* GetInfo */
+      LTEQ[ ]	/* LessThenOrEqual */
+      IF[ ]	/* If */
+      PUSH[ ]	/* 1 value pushed */
+      64
+      GETINFO[ ]	/* GetInfo */
+      IF[ ]	/* If */
+      PUSH[ ]	/* 2 values pushed */
+      6 1
+      WCVTP[ ]	/* WriteCVTInPixels */
+      PUSH[ ]	/* 2 values pushed */
+      38 1
+      GETINFO[ ]	/* GetInfo */
+      LTEQ[ ]	/* LessThenOrEqual */
+      IF[ ]	/* If */
+      PUSH[ ]	/* 1 value pushed */
+      1024
+      GETINFO[ ]	/* GetInfo */
+      IF[ ]	/* If */
+      PUSH[ ]	/* 2 values pushed */
+      6 1
+      WCVTP[ ]	/* WriteCVTInPixels */
+      EIF[ ]	/* EndIf */
+      EIF[ ]	/* EndIf */
+      EIF[ ]	/* EndIf */
+      EIF[ ]	/* EndIf */
+      PUSH[ ]	/* 1 value pushed */
+      511
+      SCANCTRL[ ]	/* ScanConversionControl */
+      PUSH[ ]	/* 1 value pushed */
+      4
+      SCANTYPE[ ]	/* ScanType */
+      PUSH[ ]	/* 2 values pushed */
+      5 0
+      WCVTP[ ]	/* WriteCVTInPixels */
+    </assembly>
+  </prep>
+
+</ttFont>

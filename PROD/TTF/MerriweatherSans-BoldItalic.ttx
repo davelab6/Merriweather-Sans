@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="3.0">
+  <GlyphOrder src="MerriweatherSans-BoldItalic.GlyphOrder.ttx"/>
+  <head src="MerriweatherSans-BoldItalic._h_e_a_d.ttx"/>
+  <hhea src="MerriweatherSans-BoldItalic._h_h_e_a.ttx"/>
+  <maxp src="MerriweatherSans-BoldItalic._m_a_x_p.ttx"/>
+  <OS_2 src="MerriweatherSans-BoldItalic.O_S_2f_2.ttx"/>
+  <hmtx src="MerriweatherSans-BoldItalic._h_m_t_x.ttx"/>
+  <cmap src="MerriweatherSans-BoldItalic._c_m_a_p.ttx"/>
+  <fpgm src="MerriweatherSans-BoldItalic._f_p_g_m.ttx"/>
+  <prep src="MerriweatherSans-BoldItalic._p_r_e_p.ttx"/>
+  <cvt src="MerriweatherSans-BoldItalic._c_v_t.ttx"/>
+  <loca src="MerriweatherSans-BoldItalic._l_o_c_a.ttx"/>
+  <glyf src="MerriweatherSans-BoldItalic._g_l_y_f.ttx"/>
+  <name src="MerriweatherSans-BoldItalic._n_a_m_e.ttx"/>
+  <post src="MerriweatherSans-BoldItalic._p_o_s_t.ttx"/>
+  <gasp src="MerriweatherSans-BoldItalic._g_a_s_p.ttx"/>
+  <FFTM src="MerriweatherSans-BoldItalic.F_F_T_M_.ttx"/>
+  <GDEF src="MerriweatherSans-BoldItalic.G_D_E_F_.ttx"/>
+  <GPOS src="MerriweatherSans-BoldItalic.G_P_O_S_.ttx"/>
+  <GSUB src="MerriweatherSans-BoldItalic.G_S_U_B_.ttx"/>
+</ttFont>
