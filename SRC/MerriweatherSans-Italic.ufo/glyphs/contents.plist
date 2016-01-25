@@ -14,6 +14,8 @@
 	<string>A_acute.glif</string>
 	<key>Abreve</key>
 	<string>A_breve.glif</string>
+	<key>Acaron</key>
+	<string>A_caron.glif</string>
 	<key>Acircumflex</key>
 	<string>A_circumflex.glif</string>
 	<key>Adieresis</key>
@@ -328,6 +330,8 @@
 	<string>aacute.glif</string>
 	<key>abreve</key>
 	<string>abreve.glif</string>
+	<key>acaron</key>
+	<string>acaron.glif</string>
 	<key>acircumflex</key>
 	<string>acircumflex.glif</string>
 	<key>acute</key>
@@ -512,12 +516,8 @@
 	<string>f_f.glif</string>
 	<key>f_f_i</key>
 	<string>f_f_i.glif</string>
-	<key>f_f_i_trk</key>
-	<string>f_f_i_trk.glif</string>
 	<key>f_f_l</key>
 	<string>f_f_l.glif</string>
-	<key>f_i_trk</key>
-	<string>f_i_trk.glif</string>
 	<key>fdotaccent</key>
 	<string>fdotaccent.glif</string>
 	<key>ffi_dflt</key>
