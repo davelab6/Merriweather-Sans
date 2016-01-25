@@ -220,6 +220,8 @@
 	<string>O_mega.glif</string>
 	<key>Oslash</key>
 	<string>O_slash.glif</string>
+	<key>Oslashacute</key>
+	<string>O_slashacute.glif</string>
 	<key>Otilde</key>
 	<string>O_tilde.glif</string>
 	<key>P</key>
@@ -514,12 +516,8 @@
 	<string>f_f.glif</string>
 	<key>f_f_i</key>
 	<string>f_f_i.glif</string>
-	<key>f_f_i_trk</key>
-	<string>f_f_i_trk.glif</string>
 	<key>f_f_l</key>
 	<string>f_f_l.glif</string>
-	<key>f_i_trk</key>
-	<string>f_i_trk.glif</string>
 	<key>fdotaccent</key>
 	<string>fdotaccent.glif</string>
 	<key>ffi_dflt</key>
@@ -604,6 +602,8 @@
 	<string>iacute.glif</string>
 	<key>ibreve</key>
 	<string>ibreve.glif</string>
+	<key>icaron</key>
+	<string>icaron.glif</string>
 	<key>icircumflex</key>
 	<string>icircumflex.glif</string>
 	<key>idieresis</key>
@@ -752,6 +752,8 @@
 	<string>ordmasculine.glif</string>
 	<key>oslash</key>
 	<string>oslash.glif</string>
+	<key>oslashacute</key>
+	<string>oslashacute.glif</string>
 	<key>otilde</key>
 	<string>otilde.glif</string>
 	<key>p</key>
@@ -902,6 +904,8 @@
 	<string>uacute.glif</string>
 	<key>ubreve</key>
 	<string>ubreve.glif</string>
+	<key>ucaron</key>
+	<string>ucaron.glif</string>
 	<key>ucircumflex</key>
 	<string>ucircumflex.glif</string>
 	<key>udieresis</key>
