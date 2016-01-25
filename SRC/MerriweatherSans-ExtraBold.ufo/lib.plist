@@ -287,6 +287,7 @@
 		<string>u</string>
 		<string>uacute</string>
 		<string>ubreve</string>
+		<string>ucaron</string>
 		<string>ucircumflex</string>
 		<string>udieresis</string>
 		<string>ugrave</string>
@@ -316,9 +317,7 @@
 		<string>i.dot</string>
 		<string>f_f</string>
 		<string>f_f_i</string>
-		<string>f_f_i_trk</string>
 		<string>f_f_l</string>
-		<string>f_i_trk</string>
 		<string>fi</string>
 		<string>fl</string>
 		<string>ordfeminine</string>
