@@ -78,6 +78,7 @@
       <psName name="uni01D1"/>
       <psName name="Ohungarumlaut"/>
       <psName name="Omacron"/>
+      <psName name="Oslashacute"/>
       <psName name="uni1E56"/>
       <psName name="Racute"/>
       <psName name="Rcaron"/>
@@ -135,6 +136,7 @@
       <psName name="hbar"/>
       <psName name="hcircumflex"/>
       <psName name="ibreve"/>
+      <psName name="uni01D0"/>
       <psName name="ij"/>
       <psName name="imacron"/>
       <psName name="iogonek"/>
@@ -160,6 +162,7 @@
       <psName name="uni01D2"/>
       <psName name="ohungarumlaut"/>
       <psName name="omacron"/>
+      <psName name="oslashacute"/>
       <psName name="uni1E57"/>
       <psName name="racute"/>
       <psName name="rcaron"/>
@@ -174,6 +177,7 @@
       <psName name="uni021B"/>
       <psName name="uni1E6B"/>
       <psName name="ubreve"/>
+      <psName name="uni01D4"/>
       <psName name="uhungarumlaut"/>
       <psName name="umacron"/>
       <psName name="uogonek"/>
@@ -192,9 +196,7 @@
       <psName name="i.dot"/>
       <psName name="f_f"/>
       <psName name="f_f_i"/>
-      <psName name="f_f_i_trk"/>
       <psName name="f_f_l"/>
-      <psName name="f_i_trk"/>
       <psName name="IJ_acutecomb"/>
       <psName name="fi_trk"/>
       <psName name="ij_acutecomb"/>

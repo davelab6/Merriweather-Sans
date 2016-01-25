@@ -190,9 +190,7 @@
       <ClassDef glyph="f" class="1"/>
       <ClassDef glyph="f_f" class="2"/>
       <ClassDef glyph="f_f_i" class="2"/>
-      <ClassDef glyph="f_f_i_trk" class="2"/>
       <ClassDef glyph="f_f_l" class="2"/>
-      <ClassDef glyph="f_i_trk" class="2"/>
       <ClassDef glyph="fi" class="2"/>
       <ClassDef glyph="fi_trk" class="1"/>
       <ClassDef glyph="fl" class="2"/>
@@ -200,6 +198,7 @@
       <ClassDef glyph="franc" class="1"/>
       <ClassDef glyph="g" class="1"/>
       <ClassDef glyph="gbreve" class="1"/>
+      <ClassDef glyph="gcaron" class="1"/>
       <ClassDef glyph="gcircumflex" class="1"/>
       <ClassDef glyph="gcommaaccent" class="1"/>
       <ClassDef glyph="gdotaccent" class="1"/>
@@ -316,9 +315,14 @@
       <ClassDef glyph="uni01CA" class="1"/>
       <ClassDef glyph="uni01CB" class="1"/>
       <ClassDef glyph="uni01CC" class="1"/>
+      <ClassDef glyph="uni01CD" class="1"/>
+      <ClassDef glyph="uni01CE" class="1"/>
       <ClassDef glyph="uni01CF" class="1"/>
+      <ClassDef glyph="uni01D0" class="1"/>
       <ClassDef glyph="uni01D1" class="1"/>
+      <ClassDef glyph="uni01D2" class="1"/>
       <ClassDef glyph="uni01D3" class="1"/>
+      <ClassDef glyph="uni01D4" class="1"/>
       <ClassDef glyph="uni01F1" class="1"/>
       <ClassDef glyph="uni01F2" class="1"/>
       <ClassDef glyph="uni01F3" class="1"/>

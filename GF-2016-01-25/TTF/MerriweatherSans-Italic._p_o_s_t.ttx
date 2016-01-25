@@ -24,6 +24,7 @@
       <!-- following are the name that are not taken from the standard Mac glyph order -->
       <psName name="NULL"/>
       <psName name="Abreve"/>
+      <psName name="uni01CD"/>
       <psName name="Amacron"/>
       <psName name="Aogonek"/>
       <psName name="AEacute"/>
@@ -110,6 +111,7 @@
       <psName name="Zdotaccent"/>
       <psName name="I.uc"/>
       <psName name="abreve"/>
+      <psName name="uni01CE"/>
       <psName name="amacron"/>
       <psName name="aogonek"/>
       <psName name="aeacute"/>
@@ -193,9 +195,7 @@
       <psName name="i.dot"/>
       <psName name="f_f"/>
       <psName name="f_f_i"/>
-      <psName name="f_f_i_trk"/>
       <psName name="f_f_l"/>
-      <psName name="f_i_trk"/>
       <psName name="IJ_acutecomb"/>
       <psName name="fi_trk"/>
       <psName name="ij_acutecomb"/>

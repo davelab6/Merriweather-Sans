@@ -2277,9 +2277,14 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="Uring" xMin="131" yMin="-16" xMax="1381" yMax="2007">
+    <TTGlyph name="Uring" xMin="131" yMin="-16" xMax="1381" yMax="2107">
       <component glyphName="U" x="0" y="0" flags="0x0"/>
-      <component glyphName="ring.cap" x="480" y="0" flags="0x0"/>
+      <component glyphName="ring.cap" x="480" y="100" flags="0x4"/>
+      <instructions><assembly>
+          PUSH[ ]	/* 4 values pushed */
+          1 2 100 51
+          CALL[ ]	/* CallFunction */
+        </assembly></instructions>
     </TTGlyph>
 
     <TTGlyph name="Utilde" xMin="131" yMin="-16" xMax="1381" yMax="1975">
@@ -5555,23 +5560,11 @@
       <component glyphName="f" x="730" y="0" flags="0x0"/>
     </TTGlyph>
 
-    <TTGlyph name="f_f_i" xMin="102" yMin="0" xMax="2275" yMax="1676">
-      <component glyphName="dotlessi" x="0" y="0" flags="0x0"/>
-      <component glyphName="dotaccent" x="268" y="2" flags="0x4"/>
-      <component glyphName="f" x="624" y="0" flags="0x0"/>
-      <component glyphName="f" x="1354" y="0" flags="0x0"/>
-      <instructions><assembly>
-          PUSH[ ]	/* 4 values pushed */
-          1 1 2 51
-          CALL[ ]	/* CallFunction */
-        </assembly></instructions>
-    </TTGlyph>
-
-    <TTGlyph name="f_f_i_trk" xMin="129" yMin="0" xMax="2080" yMax="1676">
+    <TTGlyph name="f_f_i" xMin="129" yMin="0" xMax="2086" yMax="1676">
       <component glyphName="f" x="0" y="0" flags="0x0"/>
       <component glyphName="f" x="730" y="0" flags="0x0"/>
       <component glyphName="dotlessi" x="1460" y="0" flags="0x0"/>
-      <component glyphName="dotaccent" x="1722" y="2" flags="0x4"/>
+      <component glyphName="dotaccent" x="1728" y="2" flags="0x4"/>
       <instructions><assembly>
           PUSH[ ]	/* 4 values pushed */
           3 1 2 51
@@ -5579,21 +5572,10 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="f_f_l" xMin="104" yMin="0" xMax="2276" yMax="1676">
-      <component glyphName="l" x="0" y="0" flags="0x0"/>
-      <component glyphName="f" x="625" y="0" flags="0x0"/>
-      <component glyphName="f" x="1355" y="0" flags="0x0"/>
-    </TTGlyph>
-
-    <TTGlyph name="f_i_trk" xMin="129" yMin="0" xMax="1356" yMax="1676">
+    <TTGlyph name="f_f_l" xMin="129" yMin="0" xMax="2063" yMax="1676">
       <component glyphName="f" x="0" y="0" flags="0x0"/>
-      <component glyphName="dotlessi" x="730" y="0" flags="0x0"/>
-      <component glyphName="dotaccent" x="998" y="2" flags="0x4"/>
-      <instructions><assembly>
-          PUSH[ ]	/* 4 values pushed */
-          2 1 2 51
-          CALL[ ]	/* CallFunction */
-        </assembly></instructions>
+      <component glyphName="f" x="730" y="0" flags="0x0"/>
+      <component glyphName="l" x="1460" y="0" flags="0x0"/>
     </TTGlyph>
 
     <TTGlyph name="ffi_dflt" xMin="102" yMin="0" xMax="2275" yMax="1676">
@@ -5608,13 +5590,13 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="fi" xMin="102" yMin="0" xMax="1545" yMax="1676">
-      <component glyphName="dotlessi" x="0" y="0" flags="0x0"/>
-      <component glyphName="dotaccent" x="268" y="2" flags="0x4"/>
-      <component glyphName="f" x="624" y="0" flags="0x0"/>
+    <TTGlyph name="fi" xMin="129" yMin="0" xMax="1356" yMax="1676">
+      <component glyphName="f" x="0" y="0" flags="0x0"/>
+      <component glyphName="dotlessi" x="730" y="0" flags="0x0"/>
+      <component glyphName="dotaccent" x="998" y="2" flags="0x4"/>
       <instructions><assembly>
           PUSH[ ]	/* 4 values pushed */
-          1 1 2 51
+          2 1 2 51
           CALL[ ]	/* CallFunction */
         </assembly></instructions>
     </TTGlyph>
@@ -5688,9 +5670,9 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="fl" xMin="104" yMin="0" xMax="1546" yMax="1676">
-      <component glyphName="l" x="0" y="0" flags="0x0"/>
-      <component glyphName="f" x="625" y="0" flags="0x0"/>
+    <TTGlyph name="fl" xMin="129" yMin="0" xMax="1333" yMax="1676">
+      <component glyphName="f" x="0" y="0" flags="0x0"/>
+      <component glyphName="l" x="730" y="0" flags="0x0"/>
     </TTGlyph>
 
     <TTGlyph name="florin" xMin="191" yMin="-356" xMax="1037" yMax="1674">
@@ -5928,6 +5910,16 @@
     <TTGlyph name="gbreve" xMin="75" yMin="-511" xMax="1139" yMax="1668">
       <component glyphName="g" x="0" y="0" flags="0x0"/>
       <component glyphName="breve" x="415" y="2" flags="0x4"/>
+      <instructions><assembly>
+          PUSH[ ]	/* 4 values pushed */
+          2 1 2 51
+          CALL[ ]	/* CallFunction */
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="gcaron" xMin="75" yMin="-511" xMax="1164" yMax="1662">
+      <component glyphName="g" x="0" y="0" flags="0x0"/>
+      <component glyphName="caron" x="373" y="2" flags="0x4"/>
       <instructions><assembly>
           PUSH[ ]	/* 4 values pushed */
           2 1 2 51
@@ -6577,69 +6569,17 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="ij" xMin="-252" yMin="-521" xMax="1248" yMax="1668">
-      <contour>
-        <pt x="1142" y="1668" on="0"/>
-        <pt x="1211" y="1631" on="0"/>
-        <pt x="1248" y="1569" on="0"/>
-        <pt x="1248" y="1532" on="1"/>
-        <pt x="1248" y="1483" on="0"/>
-        <pt x="1202" y="1401" on="0"/>
-        <pt x="1117" y="1353" on="0"/>
-        <pt x="1063" y="1353" on="1"/>
-        <pt x="1025" y="1353" on="0"/>
-        <pt x="960" y="1390" on="0"/>
-        <pt x="921" y="1453" on="0"/>
-        <pt x="921" y="1491" on="1"/>
-        <pt x="921" y="1538" on="0"/>
-        <pt x="968" y="1619" on="0"/>
-        <pt x="1049" y="1668" on="0"/>
-        <pt x="1098" y="1668" on="1"/>
-      </contour>
-      <contour>
-        <pt x="257" y="1140" on="1"/>
-        <pt x="534" y="1140" on="1"/>
-        <pt x="378" y="2" on="1"/>
-        <pt x="356" y="-161" on="0"/>
-        <pt x="221" y="-397" on="0"/>
-        <pt x="22" y="-521" on="0"/>
-        <pt x="-95" y="-521" on="1"/>
-        <pt x="-146" y="-521" on="0"/>
-        <pt x="-230" y="-501" on="0"/>
-        <pt x="-252" y="-485" on="1"/>
-        <pt x="-182" y="-339" on="1"/>
-        <pt x="-174" y="-345" on="0"/>
-        <pt x="-146" y="-350" on="0"/>
-        <pt x="-136" y="-350" on="1"/>
-        <pt x="-52" y="-350" on="0"/>
-        <pt x="45" y="-241" on="0"/>
-        <pt x="91" y="-70" on="0"/>
-        <pt x="110" y="67" on="1"/>
-      </contour>
-      <contour>
-        <pt x="880" y="1140" on="1"/>
-        <pt x="1157" y="1140" on="1"/>
-        <pt x="1000" y="0" on="1"/>
-        <pt x="724" y="0" on="1"/>
-      </contour>
+    <TTGlyph name="ij" xMin="102" yMin="-521" xMax="1236" yMax="1668">
+      <component glyphName="dotlessi" x="0" y="0" flags="0x0"/>
+      <component glyphName="dotaccent" x="268" y="2" flags="0x4"/>
+      <component glyphName="uni0237" x="624" y="0" flags="0x0"/>
+      <component glyphName="dotaccent" x="878" y="2" flags="0x4"/>
       <instructions><assembly>
-          PUSH[ ]	/* 10 values pushed */
-          26 1 4 6 25 1 3 4 2 74
-          MPPEM[ ]	/* MeasurePixelPerEm */
-          PUSH[ ]	/* 1 value pushed */
-          49
-          LT[ ]	/* LessThan */
-          IF[ ]	/* If */
-          PUSH[ ]	/* 33 values pushed */
-          0 0 0 1 91 7 1 1 1 27 75 5 1 2 2 20 75 0 6 6 18 75 0 4 4
-          3 91 0 3 3 30 3 76
-          ELSE[ ]	/* Else */
-          PUSH[ ]	/* 31 values pushed */
-          7 1 1 0 0 2 1 0 99 5 1 2 2 20 75 0 6 6 18 75 0 4 4 3 91
-          0 3 3 30 3 76
-          EIF[ ]	/* EndIf */
-          PUSH[ ]	/* 20 values pushed */
-          0 0 37 36 35 34 30 28 23 21 17 16 0 15 0 14 38 8 7 21
+          PUSH[ ]	/* 4 values pushed */
+          1 1 2 51
+          CALL[ ]	/* CallFunction */
+          PUSH[ ]	/* 4 values pushed */
+          3 1 2 51
           CALL[ ]	/* CallFunction */
         </assembly></instructions>
     </TTGlyph>
@@ -9608,46 +9548,8 @@
         <pt x="534" y="1753" on="1"/>
       </contour>
       <instructions><assembly>
-          MPPEM[ ]	/* MeasurePixelPerEm */
-          PUSH[ ]	/* 1 value pushed */
-          8
-          LT[ ]	/* LessThan */
-          IF[ ]	/* If */
-          PUSH[ ]	/* 19 values pushed */
-          0 0 0 2 3 0 2 99 0 1 1 3 91 0 3 3 25 1 76
-          ELSE[ ]	/* Else */
-          MPPEM[ ]	/* MeasurePixelPerEm */
-          PUSH[ ]	/* 1 value pushed */
-          10
-          LT[ ]	/* LessThan */
-          IF[ ]	/* If */
-          PUSH[ ]	/* 19 values pushed */
-          0 0 0 2 3 0 2 99 0 1 1 3 91 0 3 3 19 1 76
-          ELSE[ ]	/* Else */
-          MPPEM[ ]	/* MeasurePixelPerEm */
-          PUSH[ ]	/* 1 value pushed */
-          11
-          LT[ ]	/* LessThan */
-          IF[ ]	/* If */
-          PUSH[ ]	/* 19 values pushed */
-          0 0 0 2 3 0 2 99 0 1 1 3 91 0 3 3 25 1 76
-          ELSE[ ]	/* Else */
-          MPPEM[ ]	/* MeasurePixelPerEm */
-          PUSH[ ]	/* 1 value pushed */
-          22
-          LT[ ]	/* LessThan */
-          IF[ ]	/* If */
-          PUSH[ ]	/* 19 values pushed */
-          0 0 0 2 3 0 2 99 0 1 1 3 91 0 3 3 19 1 76
-          ELSE[ ]	/* Else */
-          PUSH[ ]	/* 24 values pushed */
-          0 0 0 2 3 0 2 99 0 3 1 1 3 87 0 3 3 1 91 0 1 3 1 79
-          EIF[ ]	/* EndIf */
-          EIF[ ]	/* EndIf */
-          EIF[ ]	/* EndIf */
-          EIF[ ]	/* EndIf */
-          PUSH[ ]	/* 7 values pushed */
-          37 36 37 34 4 7 24
+          PUSH[ ]	/* 6 values pushed */
+          22 15 9 2 2 48
           CALL[ ]	/* CallFunction */
         </assembly></instructions>
     </TTGlyph>
@@ -11240,9 +11142,34 @@
         </assembly></instructions>
     </TTGlyph>
 
+    <TTGlyph name="uni01CD" xMin="-100" yMin="-1" xMax="1235" yMax="2007">
+      <component glyphName="A" x="0" y="0" flags="0x0"/>
+      <component glyphName="caron.cap" x="424" y="0" flags="0x0"/>
+    </TTGlyph>
+
+    <TTGlyph name="uni01CE" xMin="76" yMin="-16" xMax="1159" yMax="1662">
+      <component glyphName="a" x="0" y="0" flags="0x0"/>
+      <component glyphName="caron" x="368" y="2" flags="0x4"/>
+      <instructions><assembly>
+          PUSH[ ]	/* 4 values pushed */
+          2 1 2 51
+          CALL[ ]	/* CallFunction */
+        </assembly></instructions>
+    </TTGlyph>
+
     <TTGlyph name="uni01CF" xMin="113" yMin="0" xMax="884" yMax="2007">
       <component glyphName="I" x="0" y="0" flags="0x0"/>
       <component glyphName="caron.cap" x="83" y="0" flags="0x0"/>
+    </TTGlyph>
+
+    <TTGlyph name="uni01D0" xMin="88" yMin="0" xMax="836" yMax="1662">
+      <component glyphName="dotlessi" x="0" y="0" flags="0x0"/>
+      <component glyphName="caron" x="45" y="2" flags="0x4"/>
+      <instructions><assembly>
+          PUSH[ ]	/* 4 values pushed */
+          1 1 2 51
+          CALL[ ]	/* CallFunction */
+        </assembly></instructions>
     </TTGlyph>
 
     <TTGlyph name="uni01D1" xMin="87" yMin="-16" xMax="1335" yMax="2007">
@@ -11250,9 +11177,29 @@
       <component glyphName="caron.cap" x="464" y="0" flags="0x0"/>
     </TTGlyph>
 
+    <TTGlyph name="uni01D2" xMin="77" yMin="-16" xMax="1094" yMax="1662">
+      <component glyphName="o" x="0" y="0" flags="0x0"/>
+      <component glyphName="caron" x="303" y="2" flags="0x4"/>
+      <instructions><assembly>
+          PUSH[ ]	/* 4 values pushed */
+          2 1 2 51
+          CALL[ ]	/* CallFunction */
+        </assembly></instructions>
+    </TTGlyph>
+
     <TTGlyph name="uni01D3" xMin="131" yMin="-16" xMax="1381" yMax="2007">
       <component glyphName="U" x="0" y="0" flags="0x0"/>
       <component glyphName="caron.cap" x="447" y="0" flags="0x0"/>
+    </TTGlyph>
+
+    <TTGlyph name="uni01D4" xMin="112" yMin="-20" xMax="1153" yMax="1662">
+      <component glyphName="u" x="0" y="0" flags="0x0"/>
+      <component glyphName="caron" x="338" y="2" flags="0x4"/>
+      <instructions><assembly>
+          PUSH[ ]	/* 4 values pushed */
+          1 1 2 51
+          CALL[ ]	/* CallFunction */
+        </assembly></instructions>
     </TTGlyph>
 
     <TTGlyph name="uni01F1" xMin="91" yMin="-16" xMax="2620" yMax="1546">

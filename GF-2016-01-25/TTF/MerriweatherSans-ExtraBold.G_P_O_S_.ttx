@@ -398,6 +398,7 @@
             <Glyph value="u"/>
             <Glyph value="uacute"/>
             <Glyph value="ubreve"/>
+            <Glyph value="uni01D4"/>
             <Glyph value="ucircumflex"/>
             <Glyph value="udieresis"/>
             <Glyph value="ugrave"/>
@@ -438,7 +439,7 @@
             </MarkRecord>
           </MarkArray>
           <BaseArray>
-            <!-- BaseCount=279 -->
+            <!-- BaseCount=280 -->
             <BaseRecord index="0">
               <BaseAnchor index="0" Format="1">
                 <XCoordinate value="693"/>
@@ -1611,7 +1612,7 @@
             </BaseRecord>
             <BaseRecord index="195">
               <BaseAnchor index="0" Format="1">
-                <XCoordinate value="1028"/>
+                <XCoordinate value="351"/>
                 <YCoordinate value="-170"/>
               </BaseAnchor>
             </BaseRecord>
@@ -2001,8 +2002,8 @@
             </BaseRecord>
             <BaseRecord index="260">
               <BaseAnchor index="0" Format="1">
-                <XCoordinate value="904"/>
-                <YCoordinate value="-169"/>
+                <XCoordinate value="663"/>
+                <YCoordinate value="-170"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="261">
@@ -2031,13 +2032,13 @@
             </BaseRecord>
             <BaseRecord index="265">
               <BaseAnchor index="0" Format="1">
-                <XCoordinate value="631"/>
-                <YCoordinate value="-170"/>
+                <XCoordinate value="904"/>
+                <YCoordinate value="-169"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="266">
               <BaseAnchor index="0" Format="1">
-                <XCoordinate value="605"/>
+                <XCoordinate value="631"/>
                 <YCoordinate value="-170"/>
               </BaseAnchor>
             </BaseRecord>
@@ -2073,7 +2074,7 @@
             </BaseRecord>
             <BaseRecord index="272">
               <BaseAnchor index="0" Format="1">
-                <XCoordinate value="558"/>
+                <XCoordinate value="605"/>
                 <YCoordinate value="-170"/>
               </BaseAnchor>
             </BaseRecord>
@@ -2097,7 +2098,7 @@
             </BaseRecord>
             <BaseRecord index="276">
               <BaseAnchor index="0" Format="1">
-                <XCoordinate value="351"/>
+                <XCoordinate value="558"/>
                 <YCoordinate value="-170"/>
               </BaseAnchor>
             </BaseRecord>
@@ -2108,6 +2109,12 @@
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="278">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="351"/>
+                <YCoordinate value="-170"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="279">
               <BaseAnchor index="0" Format="1">
                 <XCoordinate value="1109"/>
                 <YCoordinate value="-170"/>

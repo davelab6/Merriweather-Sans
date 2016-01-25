@@ -177,6 +177,7 @@
       <psName name="uni021B"/>
       <psName name="uni1E6B"/>
       <psName name="ubreve"/>
+      <psName name="uni01D4"/>
       <psName name="uhungarumlaut"/>
       <psName name="umacron"/>
       <psName name="uogonek"/>
@@ -195,9 +196,7 @@
       <psName name="i.dot"/>
       <psName name="f_f"/>
       <psName name="f_f_i"/>
-      <psName name="f_f_i_trk"/>
       <psName name="f_f_l"/>
-      <psName name="f_i_trk"/>
       <psName name="IJ_acutecomb"/>
       <psName name="fi_trk"/>
       <psName name="ij_acutecomb"/>

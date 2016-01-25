@@ -12,13 +12,13 @@
       Bold Italic
     </namerecord>
     <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
-      1.005;STC ;MerriweatherSans-BoldItalic
+      1.006;STC ;MerriweatherSans-BoldItalic
     </namerecord>
     <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
       Merriweather Sans Bold Italic
     </namerecord>
     <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
-      Version 1.005; ttfautohint (v1.4.1) -l 6 -r 50 -G 0 -x 11 -H 220 -D latn -f none -w "" -X ""
+      Version 1.006; ttfautohint (v1.4.1) -l 6 -r 50 -G 0 -x 11 -H 220 -D latn -f none -w "" -X ""
     </namerecord>
     <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
       MerriweatherSans-BoldItalic
