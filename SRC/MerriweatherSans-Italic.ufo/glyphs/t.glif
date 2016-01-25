@@ -39,10 +39,10 @@
       <point x="291" y="-166" type="move" name="btm"/>
     </contour>
     <contour>
-      <point x="434" y="1364" type="move" name="top"/>
+      <point x="403" y="472" type="move" name="tbarbar"/>
     </contour>
     <contour>
-      <point x="403" y="472" type="move" name="tbarbar"/>
+      <point x="434" y="1364" type="move" name="top"/>
     </contour>
   </outline>
 </glyph>
