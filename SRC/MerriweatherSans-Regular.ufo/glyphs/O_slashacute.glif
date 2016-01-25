@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Uring" format="1">
-  <advance width="1463"/>
-  <unicode hex="016E"/>
+<glyph name="Oslashacute" format="1">
+  <advance width="1569"/>
+  <unicode hex="01FE"/>
   <outline>
-    <component base="U"/>
-    <component base="ring.cap" xOffset="379" yOffset="100"/>
+    <component base="Oslash"/>
+    <component base="acute.cap" xOffset="522"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-01-25 06:41:18 +0000</string>
+      <string>2016-01-25 07:32:18 +0000</string>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
@@ -18,7 +18,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>ring.cap</string>
+          <string>acute.cap</string>
         </dict>
       </array>
     </dict>

@@ -266,6 +266,7 @@
 		<string>Ohungarumlaut</string>
 		<string>Omacron</string>
 		<string>Oslash</string>
+		<string>Oslashacute</string>
 		<string>Otilde</string>
 		<string>OE</string>
 		<string>P</string>
@@ -374,6 +375,7 @@
 		<string>idotless</string>
 		<string>iacute</string>
 		<string>ibreve</string>
+		<string>icaron</string>
 		<string>icircumflex</string>
 		<string>idieresis</string>
 		<string>igrave</string>
@@ -415,6 +417,7 @@
 		<string>ohungarumlaut</string>
 		<string>omacron</string>
 		<string>oslash</string>
+		<string>oslashacute</string>
 		<string>otilde</string>
 		<string>oe</string>
 		<string>p</string>
@@ -442,6 +445,7 @@
 		<string>u</string>
 		<string>uacute</string>
 		<string>ubreve</string>
+		<string>ucaron</string>
 		<string>ucircumflex</string>
 		<string>udieresis</string>
 		<string>ugrave</string>
@@ -471,9 +475,7 @@
 		<string>i.dot</string>
 		<string>f_f</string>
 		<string>f_f_i</string>
-		<string>f_f_i_trk</string>
 		<string>f_f_l</string>
-		<string>f_i_trk</string>
 		<string>fi</string>
 		<string>fl</string>
 		<string>ordfeminine</string>
@@ -644,8 +646,8 @@
 		<string>tilde.cap</string>
 		<string>caronvertical</string>
 		<string>ffi_dflt</string>
-		<string>gtilde</string>
 		<string>Gtilde</string>
+		<string>gtilde</string>
 		<string>NULL</string>
 	</array>
 </dict>

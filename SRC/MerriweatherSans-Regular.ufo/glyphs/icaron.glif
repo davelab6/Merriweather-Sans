@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="icaron" format="1">
+  <advance width="606"/>
+  <unicode hex="01D0"/>
+  <outline>
+    <component base="caron" xOffset="-116" yOffset="28"/>
+    <component base="idotless"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-01-25 06:42:41 +0000</string>
+    </dict>
+  </lib>
+</glyph>
