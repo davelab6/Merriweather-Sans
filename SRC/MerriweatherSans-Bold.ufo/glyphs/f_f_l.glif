@@ -2,8 +2,14 @@
 <glyph name="f_f_l" format="1">
   <advance width="2388"/>
   <outline>
-    <component base="l"/>
-    <component base="f" xOffset="672"/>
-    <component base="f" xOffset="1530"/>
+    <component base="f"/>
+    <component base="f" xOffset="858"/>
+    <component base="l" xOffset="1716"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-01-25 06:53:29 +0000</string>
+    </dict>
+  </lib>
 </glyph>

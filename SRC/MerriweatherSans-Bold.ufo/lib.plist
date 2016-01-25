@@ -173,6 +173,7 @@
 		<string>A</string>
 		<string>Aacute</string>
 		<string>Abreve</string>
+		<string>Acaron</string>
 		<string>Acircumflex</string>
 		<string>Adieresis</string>
 		<string>Agrave</string>
@@ -364,6 +365,7 @@
 		<string>fdotaccent</string>
 		<string>g</string>
 		<string>gbreve</string>
+		<string>gcaron</string>
 		<string>gcircumflex</string>
 		<string>gcommaaccent</string>
 		<string>gdotaccent</string>
@@ -375,6 +377,7 @@
 		<string>idotless</string>
 		<string>iacute</string>
 		<string>ibreve</string>
+		<string>icaron</string>
 		<string>icircumflex</string>
 		<string>idieresis</string>
 		<string>igrave</string>
@@ -408,6 +411,7 @@
 		<string>o</string>
 		<string>oacute</string>
 		<string>obreve</string>
+		<string>ocaron</string>
 		<string>ocircumflex</string>
 		<string>odieresis</string>
 		<string>ograve</string>
@@ -442,6 +446,7 @@
 		<string>u</string>
 		<string>uacute</string>
 		<string>ubreve</string>
+		<string>ucaron</string>
 		<string>ucircumflex</string>
 		<string>udieresis</string>
 		<string>ugrave</string>
@@ -472,9 +477,7 @@
 		<string>i.uc</string>
 		<string>f_f</string>
 		<string>f_f_i</string>
-		<string>f_f_i_trk</string>
 		<string>f_f_l</string>
-		<string>f_i_trk</string>
 		<string>fi</string>
 		<string>fl</string>
 		<string>ordfeminine</string>
