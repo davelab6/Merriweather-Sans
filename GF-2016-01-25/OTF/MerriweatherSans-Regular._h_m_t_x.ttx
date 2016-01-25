@@ -90,6 +90,7 @@
     <mtx name="Ohungarumlaut" width="1569" lsb="99"/>
     <mtx name="Omacron" width="1569" lsb="99"/>
     <mtx name="Oslash" width="1569" lsb="99"/>
+    <mtx name="Oslashacute" width="1569" lsb="99"/>
     <mtx name="Otilde" width="1569" lsb="99"/>
     <mtx name="P" width="1270" lsb="193"/>
     <mtx name="Q" width="1569" lsb="99"/>
@@ -220,15 +221,13 @@
     <mtx name="exclamdown" width="602" lsb="146"/>
     <mtx name="f" width="811" lsb="74"/>
     <mtx name="f_f" width="1622" lsb="74"/>
-    <mtx name="f_f_i" width="2228" lsb="151"/>
-    <mtx name="f_f_i_trk" width="2228" lsb="74"/>
-    <mtx name="f_f_l" width="2235" lsb="197"/>
-    <mtx name="f_i_trk" width="1417" lsb="74"/>
+    <mtx name="f_f_i" width="2228" lsb="74"/>
+    <mtx name="f_f_l" width="2235" lsb="74"/>
     <mtx name="ffi_dflt" width="2228" lsb="151"/>
-    <mtx name="fi" width="1417" lsb="151"/>
+    <mtx name="fi" width="1417" lsb="74"/>
     <mtx name="fi_trk" width="1417" lsb="151"/>
     <mtx name="five" width="1227" lsb="203"/>
-    <mtx name="fl" width="1424" lsb="196"/>
+    <mtx name="fl" width="1424" lsb="74"/>
     <mtx name="florin" width="1169" lsb="216"/>
     <mtx name="four" width="1339" lsb="115"/>
     <mtx name="four.numr" width="1151" lsb="106"/>
@@ -264,7 +263,7 @@
     <mtx name="icircumflex" width="606" lsb="-71"/>
     <mtx name="idieresis" width="606" lsb="-56"/>
     <mtx name="igrave" width="606" lsb="-82"/>
-    <mtx name="ij" width="1180" lsb="-79"/>
+    <mtx name="ij" width="1180" lsb="150"/>
     <mtx name="ij_acutecomb" width="1180" lsb="172"/>
     <mtx name="imacron" width="606" lsb="30"/>
     <mtx name="infinity" width="1804" lsb="73"/>
@@ -319,6 +318,7 @@
     <mtx name="ordfeminine" width="1034" lsb="125"/>
     <mtx name="ordmasculine" width="1033" lsb="110"/>
     <mtx name="oslash" width="1213" lsb="95"/>
+    <mtx name="oslashacute" width="1213" lsb="95"/>
     <mtx name="otilde" width="1213" lsb="95"/>
     <mtx name="p" width="1238" lsb="165"/>
     <mtx name="paragraph" width="1320" lsb="82"/>
@@ -409,9 +409,11 @@
     <mtx name="uni01CD" width="1407" lsb="20"/>
     <mtx name="uni01CE" width="1131" lsb="93"/>
     <mtx name="uni01CF" width="640" lsb="-23"/>
+    <mtx name="uni01D0" width="606" lsb="-69"/>
     <mtx name="uni01D1" width="1569" lsb="99"/>
     <mtx name="uni01D2" width="1213" lsb="95"/>
     <mtx name="uni01D3" width="1463" lsb="158"/>
+    <mtx name="uni01D4" width="1249" lsb="169"/>
     <mtx name="uni01F1" width="2766" lsb="193"/>
     <mtx name="uni01F2" width="2533" lsb="193"/>
     <mtx name="uni01F3" width="2298" lsb="96"/>

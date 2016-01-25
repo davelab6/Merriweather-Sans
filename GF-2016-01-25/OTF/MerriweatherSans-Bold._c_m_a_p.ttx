@@ -333,11 +333,16 @@
       <map code="0x1ca" name="uni01CA"/><!-- LATIN CAPITAL LETTER NJ -->
       <map code="0x1cb" name="uni01CB"/><!-- LATIN CAPITAL LETTER N WITH SMALL LETTER J -->
       <map code="0x1cc" name="uni01CC"/><!-- LATIN SMALL LETTER NJ -->
+      <map code="0x1cd" name="uni01CD"/><!-- LATIN CAPITAL LETTER A WITH CARON -->
       <map code="0x1ce" name="uni01CE"/><!-- LATIN SMALL LETTER A WITH CARON -->
       <map code="0x1cf" name="uni01CF"/><!-- LATIN CAPITAL LETTER I WITH CARON -->
+      <map code="0x1d0" name="uni01D0"/><!-- LATIN SMALL LETTER I WITH CARON -->
       <map code="0x1d1" name="uni01D1"/><!-- LATIN CAPITAL LETTER O WITH CARON -->
+      <map code="0x1d2" name="uni01D2"/><!-- LATIN SMALL LETTER O WITH CARON -->
       <map code="0x1d3" name="uni01D3"/><!-- LATIN CAPITAL LETTER U WITH CARON -->
+      <map code="0x1d4" name="uni01D4"/><!-- LATIN SMALL LETTER U WITH CARON -->
       <map code="0x1e6" name="Gcaron"/><!-- LATIN CAPITAL LETTER G WITH CARON -->
+      <map code="0x1e7" name="gcaron"/><!-- LATIN SMALL LETTER G WITH CARON -->
       <map code="0x1f1" name="uni01F1"/><!-- LATIN CAPITAL LETTER DZ -->
       <map code="0x1f2" name="uni01F2"/><!-- LATIN CAPITAL LETTER D WITH SMALL LETTER Z -->
       <map code="0x1f3" name="uni01F3"/><!-- LATIN SMALL LETTER DZ -->
@@ -1030,11 +1035,16 @@
       <map code="0x1ca" name="uni01CA"/><!-- LATIN CAPITAL LETTER NJ -->
       <map code="0x1cb" name="uni01CB"/><!-- LATIN CAPITAL LETTER N WITH SMALL LETTER J -->
       <map code="0x1cc" name="uni01CC"/><!-- LATIN SMALL LETTER NJ -->
+      <map code="0x1cd" name="uni01CD"/><!-- LATIN CAPITAL LETTER A WITH CARON -->
       <map code="0x1ce" name="uni01CE"/><!-- LATIN SMALL LETTER A WITH CARON -->
       <map code="0x1cf" name="uni01CF"/><!-- LATIN CAPITAL LETTER I WITH CARON -->
+      <map code="0x1d0" name="uni01D0"/><!-- LATIN SMALL LETTER I WITH CARON -->
       <map code="0x1d1" name="uni01D1"/><!-- LATIN CAPITAL LETTER O WITH CARON -->
+      <map code="0x1d2" name="uni01D2"/><!-- LATIN SMALL LETTER O WITH CARON -->
       <map code="0x1d3" name="uni01D3"/><!-- LATIN CAPITAL LETTER U WITH CARON -->
+      <map code="0x1d4" name="uni01D4"/><!-- LATIN SMALL LETTER U WITH CARON -->
       <map code="0x1e6" name="Gcaron"/><!-- LATIN CAPITAL LETTER G WITH CARON -->
+      <map code="0x1e7" name="gcaron"/><!-- LATIN SMALL LETTER G WITH CARON -->
       <map code="0x1f1" name="uni01F1"/><!-- LATIN CAPITAL LETTER DZ -->
       <map code="0x1f2" name="uni01F2"/><!-- LATIN CAPITAL LETTER D WITH SMALL LETTER Z -->
       <map code="0x1f3" name="uni01F3"/><!-- LATIN SMALL LETTER DZ -->

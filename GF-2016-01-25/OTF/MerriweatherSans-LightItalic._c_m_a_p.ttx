@@ -330,6 +330,7 @@
       <map code="0x1cb" name="uni01CB"/><!-- LATIN CAPITAL LETTER N WITH SMALL LETTER J -->
       <map code="0x1cc" name="uni01CC"/><!-- LATIN SMALL LETTER NJ -->
       <map code="0x1cd" name="uni01CD"/><!-- LATIN CAPITAL LETTER A WITH CARON -->
+      <map code="0x1ce" name="uni01CE"/><!-- LATIN SMALL LETTER A WITH CARON -->
       <map code="0x1cf" name="uni01CF"/><!-- LATIN CAPITAL LETTER I WITH CARON -->
       <map code="0x1d0" name="uni01D0"/><!-- LATIN SMALL LETTER I WITH CARON -->
       <map code="0x1d1" name="uni01D1"/><!-- LATIN CAPITAL LETTER O WITH CARON -->
@@ -1027,6 +1028,7 @@
       <map code="0x1cb" name="uni01CB"/><!-- LATIN CAPITAL LETTER N WITH SMALL LETTER J -->
       <map code="0x1cc" name="uni01CC"/><!-- LATIN SMALL LETTER NJ -->
       <map code="0x1cd" name="uni01CD"/><!-- LATIN CAPITAL LETTER A WITH CARON -->
+      <map code="0x1ce" name="uni01CE"/><!-- LATIN SMALL LETTER A WITH CARON -->
       <map code="0x1cf" name="uni01CF"/><!-- LATIN CAPITAL LETTER I WITH CARON -->
       <map code="0x1d0" name="uni01D0"/><!-- LATIN SMALL LETTER I WITH CARON -->
       <map code="0x1d1" name="uni01D1"/><!-- LATIN CAPITAL LETTER O WITH CARON -->

@@ -5,16 +5,16 @@
     <!-- Most of this table will be recalculated by the compiler -->
     <tableVersion value="1.0"/>
     <fontRevision value="1.00499"/>
-    <checkSumAdjustment value="0x1944264e"/>
+    <checkSumAdjustment value="0x368ed206"/>
     <magicNumber value="0x5f0f3cf5"/>
     <flags value="00000000 00000011"/>
     <unitsPerEm value="2048"/>
-    <created value="Fri Jan 22 15:32:24 2016"/>
-    <modified value="Fri Jan 22 15:32:24 2016"/>
+    <created value="Mon Jan 25 02:55:40 2016"/>
+    <modified value="Mon Jan 25 02:55:40 2016"/>
     <xMin value="-341"/>
     <yMin value="-561"/>
     <xMax value="2560"/>
-    <yMax value="2002"/>
+    <yMax value="2100"/>
     <macStyle value="00000000 00000010"/>
     <lowestRecPPEM value="3"/>
     <fontDirectionHint value="2"/>

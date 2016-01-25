@@ -88,6 +88,7 @@
       <ClassDef glyph="Ohungarumlaut" class="1"/>
       <ClassDef glyph="Omacron" class="1"/>
       <ClassDef glyph="Oslash" class="1"/>
+      <ClassDef glyph="Oslashacute" class="1"/>
       <ClassDef glyph="Otilde" class="1"/>
       <ClassDef glyph="P" class="1"/>
       <ClassDef glyph="Q" class="1"/>
@@ -189,9 +190,7 @@
       <ClassDef glyph="f" class="1"/>
       <ClassDef glyph="f_f" class="2"/>
       <ClassDef glyph="f_f_i" class="2"/>
-      <ClassDef glyph="f_f_i_trk" class="2"/>
       <ClassDef glyph="f_f_l" class="2"/>
-      <ClassDef glyph="f_i_trk" class="2"/>
       <ClassDef glyph="fi" class="2"/>
       <ClassDef glyph="fi_trk" class="1"/>
       <ClassDef glyph="fl" class="2"/>
@@ -263,6 +262,7 @@
       <ClassDef glyph="ordfeminine" class="1"/>
       <ClassDef glyph="ordmasculine" class="1"/>
       <ClassDef glyph="oslash" class="1"/>
+      <ClassDef glyph="oslashacute" class="1"/>
       <ClassDef glyph="otilde" class="1"/>
       <ClassDef glyph="p" class="1"/>
       <ClassDef glyph="paragraph" class="1"/>
@@ -319,9 +319,11 @@
       <ClassDef glyph="uni01CD" class="1"/>
       <ClassDef glyph="uni01CE" class="1"/>
       <ClassDef glyph="uni01CF" class="1"/>
+      <ClassDef glyph="uni01D0" class="1"/>
       <ClassDef glyph="uni01D1" class="1"/>
       <ClassDef glyph="uni01D2" class="1"/>
       <ClassDef glyph="uni01D3" class="1"/>
+      <ClassDef glyph="uni01D4" class="1"/>
       <ClassDef glyph="uni01F1" class="1"/>
       <ClassDef glyph="uni01F2" class="1"/>
       <ClassDef glyph="uni01F3" class="1"/>
