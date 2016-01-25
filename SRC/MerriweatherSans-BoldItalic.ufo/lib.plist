@@ -9,7 +9,7 @@
 			<key>X: 171</key>
 			<dict>
 				<key>horizontal</key>
-				<false/>
+				<integer>0</integer>
 				<key>round</key>
 				<dict>
 					<key>0</key>
@@ -31,7 +31,7 @@
 			<key>X: 205</key>
 			<dict>
 				<key>horizontal</key>
-				<false/>
+				<integer>0</integer>
 				<key>round</key>
 				<dict>
 					<key>0</key>
@@ -53,7 +53,7 @@
 			<key>Y: 101</key>
 			<dict>
 				<key>horizontal</key>
-				<true/>
+				<integer>1</integer>
 				<key>round</key>
 				<dict>
 					<key>0</key>
@@ -75,7 +75,7 @@
 			<key>Y: 121</key>
 			<dict>
 				<key>horizontal</key>
-				<true/>
+				<integer>1</integer>
 				<key>round</key>
 				<dict>
 					<key>0</key>
@@ -97,7 +97,7 @@
 			<key>Y: 131</key>
 			<dict>
 				<key>horizontal</key>
-				<true/>
+				<integer>1</integer>
 				<key>round</key>
 				<dict>
 					<key>0</key>
@@ -119,7 +119,7 @@
 			<key>Y: 157</key>
 			<dict>
 				<key>horizontal</key>
-				<true/>
+				<integer>1</integer>
 				<key>round</key>
 				<dict>
 					<key>0</key>
@@ -141,7 +141,7 @@
 			<key>Y: 86</key>
 			<dict>
 				<key>horizontal</key>
-				<true/>
+				<integer>1</integer>
 				<key>round</key>
 				<dict>
 					<key>0</key>
@@ -173,6 +173,7 @@
 		<string>A</string>
 		<string>Aacute</string>
 		<string>Abreve</string>
+		<string>Acaron</string>
 		<string>Acircumflex</string>
 		<string>Adieresis</string>
 		<string>Agrave</string>
@@ -325,6 +326,7 @@
 		<string>a</string>
 		<string>aacute</string>
 		<string>abreve</string>
+		<string>acaron</string>
 		<string>acircumflex</string>
 		<string>adieresis</string>
 		<string>agrave</string>
@@ -363,6 +365,7 @@
 		<string>fdotaccent</string>
 		<string>g</string>
 		<string>gbreve</string>
+		<string>gcaron</string>
 		<string>gcircumflex</string>
 		<string>gcommaaccent</string>
 		<string>gdotaccent</string>
@@ -374,6 +377,7 @@
 		<string>idotless</string>
 		<string>iacute</string>
 		<string>ibreve</string>
+		<string>icaron</string>
 		<string>icircumflex</string>
 		<string>idieresis</string>
 		<string>igrave</string>
@@ -407,6 +411,7 @@
 		<string>o</string>
 		<string>oacute</string>
 		<string>obreve</string>
+		<string>ocaron</string>
 		<string>ocircumflex</string>
 		<string>odieresis</string>
 		<string>ograve</string>
@@ -441,6 +446,7 @@
 		<string>u</string>
 		<string>uacute</string>
 		<string>ubreve</string>
+		<string>ucaron</string>
 		<string>ucircumflex</string>
 		<string>udieresis</string>
 		<string>ugrave</string>
@@ -470,9 +476,7 @@
 		<string>i.dot</string>
 		<string>f_f</string>
 		<string>f_f_i</string>
-		<string>f_f_i_trk</string>
 		<string>f_f_l</string>
-		<string>f_i_trk</string>
 		<string>fi</string>
 		<string>fl</string>
 		<string>ordfeminine</string>
