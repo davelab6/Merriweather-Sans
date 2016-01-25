@@ -14,6 +14,8 @@
 	<string>A_acute.glif</string>
 	<key>Abreve</key>
 	<string>A_breve.glif</string>
+	<key>Acaron</key>
+	<string>A_caron.glif</string>
 	<key>Acircumflex</key>
 	<string>A_circumflex.glif</string>
 	<key>Adieresis</key>
@@ -328,6 +330,8 @@
 	<string>aacute.glif</string>
 	<key>abreve</key>
 	<string>abreve.glif</string>
+	<key>acaron</key>
+	<string>acaron.glif</string>
 	<key>acircumflex</key>
 	<string>acircumflex.glif</string>
 	<key>acute</key>
@@ -512,12 +516,8 @@
 	<string>f_f.glif</string>
 	<key>f_f_i</key>
 	<string>f_f_i.glif</string>
-	<key>f_f_i_trk</key>
-	<string>f_f_i_trk.glif</string>
 	<key>f_f_l</key>
 	<string>f_f_l.glif</string>
-	<key>f_i_trk</key>
-	<string>f_i_trk.glif</string>
 	<key>fdotaccent</key>
 	<string>fdotaccent.glif</string>
 	<key>ffi_dflt</key>
@@ -548,6 +548,8 @@
 	<string>g.glif</string>
 	<key>gbreve</key>
 	<string>gbreve.glif</string>
+	<key>gcaron</key>
+	<string>gcaron.glif</string>
 	<key>gcircumflex</key>
 	<string>gcircumflex.glif</string>
 	<key>gcommaaccent</key>
@@ -598,6 +600,8 @@
 	<string>iacute.glif</string>
 	<key>ibreve</key>
 	<string>ibreve.glif</string>
+	<key>icaron</key>
+	<string>icaron.glif</string>
 	<key>icircumflex</key>
 	<string>icircumflex.glif</string>
 	<key>idieresis</key>
@@ -712,6 +716,8 @@
 	<string>oacute.glif</string>
 	<key>obreve</key>
 	<string>obreve.glif</string>
+	<key>ocaron</key>
+	<string>ocaron.glif</string>
 	<key>ocircumflex</key>
 	<string>ocircumflex.glif</string>
 	<key>odieresis</key>
@@ -894,6 +900,8 @@
 	<string>uacute.glif</string>
 	<key>ubreve</key>
 	<string>ubreve.glif</string>
+	<key>ucaron</key>
+	<string>ucaron.glif</string>
 	<key>ucircumflex</key>
 	<string>ucircumflex.glif</string>
 	<key>udieresis</key>
