@@ -3,8 +3,15 @@
   <advance width="1259"/>
   <unicode hex="FB01"/>
   <outline>
-    <component base="idotless"/>
-    <component base="dotaccent" xOffset="256" yOffset="3"/>
-    <component base="f" xOffset="564"/>
+    <component base="f"/>
+    <component base="i" xOffset="695"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>f</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>i</string>
+    </dict>
+  </lib>
 </glyph>
