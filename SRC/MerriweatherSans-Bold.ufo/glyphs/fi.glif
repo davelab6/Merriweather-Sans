@@ -3,8 +3,13 @@
   <advance width="1518"/>
   <unicode hex="FB01"/>
   <outline>
-    <component base="idotless"/>
-    <component base="dotaccent" xOffset="81" yOffset="-1"/>
-    <component base="f" xOffset="660"/>
+    <component base="f"/>
+    <component base="i" xOffset="858"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-01-25 06:53:41 +0000</string>
+    </dict>
+  </lib>
 </glyph>
